@@ -1,2 +1,4 @@
 *.csv
 LLaMA-Factory
+*.pyc
+nb/unsloth_compiled_cache
